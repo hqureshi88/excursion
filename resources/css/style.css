@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+header{
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+nav > a{
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aquamarine;
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+    padding: 15px;
+}
+
+.font1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 15px;
+}
