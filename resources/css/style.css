@@ -4,7 +4,6 @@ body{
 header{
     font-weight: normal;
     font-size: 50px;
-    color: white;
     text-align: center;
 }
 
@@ -22,5 +21,37 @@ nav {
 
 .font1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
     padding: 15px;
+}
+
+section.font1{
+    text-align: center;
+    font-weight: 300;
+    font-size: 42px;
+    padding: 15px;
+}
+
+.mobile-phone{
+    text-align: center;
+}
+video {
+    text-align: center;
+}
+
+img.camp{
+    width: 35%;
+    padding: 15px;
+}
+
+figcaption{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
+    padding: 15px;
+}
+
+figure {
+    text-align: center;
 }
